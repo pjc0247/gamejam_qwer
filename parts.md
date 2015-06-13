@@ -33,3 +33,7 @@ function on_wing_triggered(){
 function on_object_triggered(){
 }
 ```
+
+오브젝트_미사일
+----
+* 오브젝트가 쏘는 미사일 제어
