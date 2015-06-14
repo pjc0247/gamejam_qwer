@@ -1,4 +1,4 @@
 슬라임
 ====
 
-![slime](pjc.luavis.kr/slime.gif)<br>
+![slime](http://pjc.luavis.kr/slime.gif)<br>
