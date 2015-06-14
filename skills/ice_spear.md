@@ -1,7 +1,7 @@
 IceSpear
 ====
 
-![spear](http://pjc.luavis.kr/ice_spear.png)
+![spear](http://pjc.luavis.kr/ice_spear.gif)
 <br>
 
 정보
