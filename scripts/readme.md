@@ -1,4 +1,4 @@
 스크립트 템플릿
 ====
 
-![parts](pjc.luavis.kr/parts.PNG)
+![parts](http://pjc.luavis.kr/parts.PNG)
