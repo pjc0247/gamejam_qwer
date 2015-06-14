@@ -1,7 +1,7 @@
 IcePrison
 ====
 
-![prison](pjc.luavis.kr/ice_prison.png)
+![prison](http://pjc.luavis.kr/ice_prison.png)
 <br>
 
 정보
